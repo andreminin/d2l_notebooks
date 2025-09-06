@@ -1,0 +1,6 @@
+jupyter
+numpy
+torch
+d2l
+matplotlib
+
